@@ -1,0 +1,78 @@
+[
+    {
+      "attendance_id": "1",
+      "user_id": "4",
+      "date_attended": "2020-10-05"
+    },
+    {
+      "attendance_id": "2",
+      "user_id": "7",
+      "date_attended": "2020-10-05"
+    },
+    {
+      "attendance_id": "3",
+      "user_id": "3",
+      "date_attended": "2020-10-10"
+    },
+    {
+      "attendance_id": "4",
+      "user_id": "1",
+      "date_attended": "2020-10-10"
+    },
+    {
+      "attendance_id": "5",
+      "user_id": "5",
+      "date_attended": "2020-10-15"
+    },
+    {
+      "attendance_id": "6",
+      "user_id": "12",
+      "date_attended": "2020-10-15"
+    },
+    {
+      "attendance_id": "7",
+      "user_id": "10",
+      "date_attended": "2020-10-20"
+    },
+    {
+      "attendance_id": "8",
+      "user_id": "2",
+      "date_attended": "2020-10-20"
+    },
+    {
+      "attendance_id": "9",
+      "user_id": "15",
+      "date_attended": "2020-10-25"
+    },
+    {
+      "attendance_id": "10",
+      "user_id": "6",
+      "date_attended": "2020-10-25"
+    },
+    {
+      "attendance_id": "11",
+      "user_id": "11",
+      "date_attended": "2020-10-30"
+    },
+    {
+      "attendance_id": "12",
+      "user_id": "9",
+      "date_attended": "2020-10-30"
+    },
+    {
+      "attendance_id": "13",
+      "user_id": "8",
+      "date_attended": "2020-10-05"
+    },
+    {
+      "attendance_id": "14",
+      "user_id": "13",
+      "date_attended": "2020-10-10"
+    },
+    {
+      "attendance_id": "15",
+      "user_id": "14",
+      "date_attended": "2020-10-15"
+    }
+  ]
+  

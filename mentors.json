@@ -1,0 +1,28 @@
+[
+    {
+      "mentor_id": "7",
+      "user_id": "7",
+      "expertise_area": "Algorithms",
+      "mentee_count": 3
+    },
+    {
+      "mentor_id": "9",
+      "user_id": "9",
+      "expertise_area": "Web Development",
+      "mentee_count": 21
+    },
+    {
+      "mentor_id": "12",
+      "user_id": "12",
+      "expertise_area": "Machine Learning",
+      "mentee_count": 4
+    },
+    {
+      "mentor_id": "15",
+      "user_id": "15",
+      "expertise_area": "Artificial Intelligence",
+      "mentee_count": 16
+    }
+   
+  ]
+  
